@@ -32,38 +32,38 @@ I build **full-stack Web2 and Web3 apps**, from factory production systems to on
 
 ## Tech & tools
 
-<p>
+<p align="center">
   <sub><strong>FULL-STACK WEB</strong></sub><br />
-  <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" title="React" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" title="Next.js" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" title="TypeScript" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=laravel" width="40" height="40" alt="Laravel" title="Laravel" />
+  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" title="React" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" title="Next.js" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" title="TypeScript" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" title="Laravel" />
 </p>
 
-<p>
+<p align="center">
   <sub><strong>WEB3</strong></sub><br />
-  <img src="https://skillicons.dev/icons?i=solidity" width="40" height="40" alt="Solidity" title="Solidity" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=rust" width="40" height="40" alt="Rust" title="Rust" />&nbsp;
-  <img src="assets/tech/ethereum.svg" width="40" height="40" alt="Ethereum" title="Ethereum" />&nbsp;
-  <img src="assets/tech/solana.svg" width="40" height="40" alt="Solana" title="Solana" />
+  <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" title="Solidity" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" title="Rust" />&nbsp;
+  <img src="assets/tech/ethereum.svg" width="48" height="48" alt="Ethereum" title="Ethereum" />&nbsp;
+  <img src="assets/tech/solana.svg" width="48" height="48" alt="Solana" title="Solana" />
 </p>
 
-<p>
+<p align="center">
   <sub><strong>DATA &amp; BI</strong></sub><br />
-  <img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python" title="Python" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" />&nbsp;
-  <img src="assets/tech/tableau.svg" width="40" height="40" alt="Tableau" title="Tableau" />&nbsp;
-  <img src="assets/tech/powerbi.svg" width="40" height="40" alt="Power BI" title="Power BI" />
+  <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" title="Python" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" title="PostgreSQL" />&nbsp;
+  <img src="assets/tech/tableau.svg" width="48" height="48" alt="Tableau" title="Tableau" />&nbsp;
+  <img src="assets/tech/powerbi.svg" width="48" height="48" alt="Power BI" title="Power BI" />
 </p>
 
-<p>
+<p align="center">
   <sub><strong>WORKFLOW</strong></sub><br />
-  <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" title="Git" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" title="GitHub" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" title="Figma" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman" title="Postman" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=vercel" width="40" height="40" alt="Vercel" title="Vercel" />
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" title="Git" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" title="GitHub" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" title="Figma" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" title="Postman" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" title="Vercel" />
 </p>
 
 ## GitHub activity
