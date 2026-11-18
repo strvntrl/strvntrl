@@ -5,10 +5,9 @@
   </picture>
 </p>
 
-<p align="center">
-  <strong>Information Systems undergraduate</strong> · Indonesia<br />
-  Web &amp; Systems Developer
-</p>
+<h3 align="center">Information Systems undergraduate · Indonesia</h3>
+
+<p align="center">Web &amp; systems development</p>
 
 <p align="center">
   <a href="https://alfianzyh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-244969?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" height="28" alt="Portfolio" /></a>
@@ -21,50 +20,69 @@ I build **full-stack Web2 and Web3 apps**, from factory production systems to on
 
 ## Selected projects
 
-- **[Clutch Tech](https://github.com/strvntrl/clutch-tech)** — Dashboard for monitoring clutch disc production, with machine status and output-vs-target charts.<br />
-  `Next.js` · `TypeScript` · `PostgreSQL`
-- **[Dari Kami Untukmu](https://github.com/strvntrl/dari-kami-untukmu)** — Web app for creating, customizing, and sharing digital wedding invitations.<br />
-  `Next.js` · `Tailwind CSS` · `Supabase`
-- **[Hand Tracking Visual](https://github.com/strvntrl/hand-tracking-visual)** — Webcam app with 21 visual filters you can switch using hand gestures.<br />
-  `Python` · `OpenCV` · `MediaPipe`
+### [Clutch Tech](https://github.com/strvntrl/clutch-tech)
+
+Dashboard for monitoring clutch disc production, with machine status and output-vs-target charts.<br />
+`Next.js` · `TypeScript` · `PostgreSQL`
+
+### [Dari Kami Untukmu](https://github.com/strvntrl/dari-kami-untukmu)
+
+Web app for creating, customizing, and sharing digital wedding invitations.<br />
+`Next.js` · `Tailwind CSS` · `Supabase`
+
+### [Hand Tracking Visual](https://github.com/strvntrl/hand-tracking-visual)
+
+Webcam app with 21 visual filters you can switch using hand gestures.<br />
+`Python` · `OpenCV` · `MediaPipe`
 
 [Browse all repositories →](https://github.com/strvntrl?tab=repositories)
 
 ## Tech & tools
 
-<p align="center">
-  <sub><strong>FULL-STACK WEB</strong></sub><br />
-  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" title="React" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" title="Next.js" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" title="TypeScript" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" title="Laravel" />
-</p>
-
-<p align="center">
-  <sub><strong>WEB3</strong></sub><br />
-  <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" title="Solidity" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" title="Rust" />&nbsp;
-  <img src="assets/tech/ethereum.svg" width="48" height="48" alt="Ethereum" title="Ethereum" />&nbsp;
-  <img src="assets/tech/solana.svg" width="48" height="48" alt="Solana" title="Solana" />
-</p>
-
-<p align="center">
-  <sub><strong>DATA &amp; BI</strong></sub><br />
-  <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" title="Python" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" title="PostgreSQL" />&nbsp;
-  <img src="assets/tech/tableau.svg" width="48" height="48" alt="Tableau" title="Tableau" />&nbsp;
-  <img src="assets/tech/powerbi.svg" width="48" height="48" alt="Power BI" title="Power BI" />
-</p>
-
-<p align="center">
-  <sub><strong>WORKFLOW</strong></sub><br />
-  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" title="Git" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" title="GitHub" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" title="Figma" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" title="Postman" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" title="Vercel" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <h3>Full-stack web</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=react" width="52" height="52" alt="React" title="React" />
+        <img src="https://skillicons.dev/icons?i=nextjs" width="52" height="52" alt="Next.js" title="Next.js" />
+        <img src="https://skillicons.dev/icons?i=ts" width="52" height="52" alt="TypeScript" title="TypeScript" />
+        <img src="https://skillicons.dev/icons?i=tailwind" width="52" height="52" alt="Tailwind CSS" title="Tailwind CSS" />
+        <img src="https://skillicons.dev/icons?i=laravel" width="52" height="52" alt="Laravel" title="Laravel" />
+      </p>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <h3>Web3</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=solidity" width="52" height="52" alt="Solidity" title="Solidity" />
+        <img src="https://skillicons.dev/icons?i=rust" width="52" height="52" alt="Rust" title="Rust" />
+        <img src="assets/tech/ethereum.svg" width="52" height="52" alt="Ethereum" title="Ethereum" />
+        <img src="assets/tech/solana.svg" width="52" height="52" alt="Solana" title="Solana" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <h3>Data &amp; BI</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=py" width="52" height="52" alt="Python" title="Python" />
+        <img src="https://skillicons.dev/icons?i=postgres" width="52" height="52" alt="PostgreSQL" title="PostgreSQL" />
+        <img src="assets/tech/tableau.svg" width="52" height="52" alt="Tableau" title="Tableau" />
+        <img src="assets/tech/powerbi.svg" width="52" height="52" alt="Power BI" title="Power BI" />
+      </p>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <h3>Workflow</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=git" width="52" height="52" alt="Git" title="Git" />
+        <img src="https://skillicons.dev/icons?i=github" width="52" height="52" alt="GitHub" title="GitHub" />
+        <img src="https://skillicons.dev/icons?i=figma" width="52" height="52" alt="Figma" title="Figma" />
+        <img src="https://skillicons.dev/icons?i=postman" width="52" height="52" alt="Postman" title="Postman" />
+        <img src="https://skillicons.dev/icons?i=vercel" width="52" height="52" alt="Vercel" title="Vercel" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## GitHub activity
 
