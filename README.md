@@ -7,7 +7,7 @@
 
 <p align="center">
   <strong>Information Systems undergraduate</strong> · Indonesia<br />
-  Web &amp; Systems Developmer
+  Web &amp; Systems Developer
 </p>
 
 <p align="center">
