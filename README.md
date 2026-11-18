@@ -1,79 +1,78 @@
-<div align="center">
-  <img height="300" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif"  />
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile-banner-static.png" />
+    <img src="assets/profile-banner.gif" width="100%" alt="Hi, I’m Alfian (@strvntrl) — pixel-art portrait" />
+  </picture>
+</p>
 
-###
+<p align="center">
+  <strong>Information Systems undergraduate</strong> · Indonesia<br />
+  Web &amp; systems development
+</p>
 
-<h1 align="center">Welcome to my Github page👋</h1>
+<p align="center">
+  <a href="https://alfianzyh.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-244969?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" height="28" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/muhalfisyah/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" height="28" alt="LinkedIn" /></a>
+</p>
 
-###
+## About me
 
-<h3 align="center">👨‍💻  About Me:<br><br>My name is Alfian and i'm from Indonesia. <br>I'm a undegraduate student majoring Information System. <br>I have passionate about Web Development, Web Design, and IT Governance<br><br>- 🔭 I’m working as System and Web Development<br>- 📚 I'm currently learning about Laravel & Full Stack Development</h3>
+I build **full-stack Web2 and Web3 apps**, from factory production systems to on-chain tools. I also work with **data analytics and business intelligence**, building dashboards that help teams track performance and make decisions.
 
-###
+## Selected projects
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="60" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="60" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="60" alt="threejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="60" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="60" alt="notion logo"  />
-</div>
+- **[Clutch Tech](https://github.com/strvntrl/clutch-tech)** — Dashboard for monitoring clutch disc production, with machine status and output-vs-target charts.<br />
+  `Next.js` · `TypeScript` · `PostgreSQL`
+- **[Dari Kami Untukmu](https://github.com/strvntrl/dari-kami-untukmu)** — Web app for creating, customizing, and sharing digital wedding invitations.<br />
+  `Next.js` · `Tailwind CSS` · `Supabase`
+- **[Hand Tracking Visual](https://github.com/strvntrl/hand-tracking-visual)** — Webcam app with 21 visual filters you can switch using hand gestures.<br />
+  `Python` · `OpenCV` · `MediaPipe`
 
-###
+[Browse all repositories →](https://github.com/strvntrl?tab=repositories)
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/muhalfisyah/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+## Tech & tools
 
-###
+<p>
+  <sub><strong>FULL-STACK WEB</strong></sub><br />
+  <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" title="React" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" title="Next.js" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" title="TypeScript" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=laravel" width="40" height="40" alt="Laravel" title="Laravel" />
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=strvntrl&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+<p>
+  <sub><strong>WEB3</strong></sub><br />
+  <img src="https://skillicons.dev/icons?i=solidity" width="40" height="40" alt="Solidity" title="Solidity" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=rust" width="40" height="40" alt="Rust" title="Rust" />&nbsp;
+  <img src="assets/tech/ethereum.svg" width="40" height="40" alt="Ethereum" title="Ethereum" />&nbsp;
+  <img src="assets/tech/solana.svg" width="40" height="40" alt="Solana" title="Solana" />
+</p>
 
-###
+<p>
+  <sub><strong>DATA &amp; BI</strong></sub><br />
+  <img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python" title="Python" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" />&nbsp;
+  <img src="assets/tech/tableau.svg" width="40" height="40" alt="Tableau" title="Tableau" />&nbsp;
+  <img src="assets/tech/powerbi.svg" width="40" height="40" alt="Power BI" title="Power BI" />
+</p>
+
+<p>
+  <sub><strong>WORKFLOW</strong></sub><br />
+  <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" title="Git" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" title="GitHub" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" title="Figma" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman" title="Postman" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=vercel" width="40" height="40" alt="Vercel" title="Vercel" />
+</p>
+
+## GitHub activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=strvntrl&amp;theme=codeSTACKr&amp;hide_border=true" width="440" alt="GitHub contribution streak for strvntrl" />
+</p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/strvntrl/strvntrl/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/strvntrl/strvntrl/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/strvntrl/strvntrl/pacman-output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/strvntrl/strvntrl/pacman-output/pacman-contribution-graph-dark.svg" />
+  <img src="https://raw.githubusercontent.com/strvntrl/strvntrl/pacman-output/pacman-contribution-graph.svg" width="100%" alt="Animated Pac-Man graph of my GitHub contributions" />
 </picture>
-
-###
